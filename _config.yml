@@ -1,7 +1,7 @@
 name: tset
 favicon: null
-layout_spectrum: 0.99653
-typography_spectrum: 0.30469
+layout_spectrum: 0.6723390012048185
+typography_spectrum: 0.19265327043831348
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.75
-  lightness: 0.8125
-  saturation: 0.25
-  rhythmicContrast: 0.25
+  brandStrength: 0.5240604765713215
+  lightness: 0.635761795565486
+  saturation: 0.850935292430222
+  rhythmicContrast: 0.2919070415664464
 purpose: []
